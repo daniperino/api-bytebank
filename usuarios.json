@@ -1,10 +1,1 @@
-{
-  "usuarios": [
-    {
-      "id": 1,
-      "email": "neilton@alura.com",
-      "senha": "123456",
-      "nome": "Neilton Seguins"
-    }
-  ]
-}
+{"usuarios":[{"id":1,"email":"neilton@alura.com","senha":"123456","nome":"Neilton Seguins"},{"id":2,"email":"daniperino@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":3,"email":"daniperino@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":4,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":5,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":6,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":7,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":8,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":9,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":10,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":11,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":12,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":13,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":14,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":15,"email":"dani@gmail.com","senha":"Teste@123","nome":"Daniella Perino"},{"id":16,"email":"dan@gmail.com","senha":"Teste@123","nome":"Daniella Perino"}]}
